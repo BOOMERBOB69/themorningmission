@@ -112,3 +112,15 @@ div.desc {
 	opacity: 1;
   	color: #000000;
 }
+
+.empty {
+	margin: 15px;
+	display: block;
+	float: left;
+	width: 15%;
+	height: 700px;
+	font-size: 17px;
+	background-color: #FFFFFF;
+	color: #FFFFFF;
+	text-align: center;
+}
